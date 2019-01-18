@@ -1,0 +1,1 @@
+all of the options i had time to explore required me to pay for domain names. ill get the site up once i have more time
