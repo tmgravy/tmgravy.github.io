@@ -1,0 +1,16 @@
+html{
+    background-color: grey;
+}
+h1{
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+h2{
+    border-bottom-color: black;
+    border-bottom-style: dotted;
+    Border-top-style: dashed;
+    font-size: 40px;
+}
+p {
+	font-size:20px;
+}
