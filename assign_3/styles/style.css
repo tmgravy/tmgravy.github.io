@@ -1,0 +1,16 @@
+html{
+    background-color: grey;
+}
+next {
+    font-size: smaller;
+}
+table{
+    width: 1200px;
+}
+Event {
+    border: black;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  
