@@ -1,0 +1,31 @@
+header {
+    background-color: darkgray;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+  }
+nav {
+    background-color: grey;
+    padding: 5px;
+    text-align: left;
+    font-size: 15px;
+    color: white;
+  }
+section{
+    display: flex;
+    flex-direction: column;
+    background-color:lightgrey;
+    color: black;
+    padding: 10px;
+    flex: wrap;
+}
+article{
+    flex: 100px;
+}
+footer{
+    background-color: lightgray;
+    padding: 2px;
+    text-align: left;
+    font-size: 12px;
+}
