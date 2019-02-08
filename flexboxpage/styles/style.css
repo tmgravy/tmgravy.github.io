@@ -28,6 +28,7 @@ section{
     color: black;
     padding: 10px;
     flex: wrap;
+    margin-left: 60px;
 }
 article{
     flex: 100px;
