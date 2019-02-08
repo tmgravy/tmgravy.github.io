@@ -13,4 +13,10 @@ Event {
 table, th, td {
     border: 1px solid black;
   }
-  
+.dec {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+}
+.Event {
+    font-weight: bold;
+}
